@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project .pri file for texta framework rostra
+# generic QtCreator project .pri file for framework rostra
 ########################################################################
 # Depends: nadir
 

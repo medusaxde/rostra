@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project file for texta framework rostra
+# os specific QtCreator project file for framework rostra
 ########################################################################
 # Depends: nadir
 

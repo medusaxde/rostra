@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project file for texta framework rostra static library librostra
+# generic QtCreator project file for framework rostra static library librostra
 ########################################################################
 
 ########################################################################

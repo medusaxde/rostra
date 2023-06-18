@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project .pro file for texta framework rostra static library librostra
+# os specific QtCreator project .pro file for framework rostra static library librostra
 ########################################################################
 # Depends: nadir
 #
